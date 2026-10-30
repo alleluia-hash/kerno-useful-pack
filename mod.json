@@ -1,0 +1,9 @@
+{
+  "geode": "4.0.0",
+  "version": "1.5.0",
+  "id": "kerno.useful-pack",
+  "name": "Kerno's Useful Pack",
+  "developer": "Kerno",
+  "description": "Original level stats, death feedback with closeness and tips, and personal difficulty tiers.",
+  "tags": ["gameplay", "enhancements"]
+}
