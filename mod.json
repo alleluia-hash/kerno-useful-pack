@@ -1,6 +1,10 @@
 {
   "geode": "5.0.0",
-  "version": "1.5.0",
+  "gd": {
+    "win": "*",
+    "android64": "*"
+  },
+  "version": "1.6.0",
   "id": "kerno.useful-pack",
   "name": "Kerno's Useful Pack",
   "developer": "Kerno",
